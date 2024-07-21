@@ -3,3 +3,5 @@ Welcome to my learning journey in the world of data science, Linux, Python, R, m
 [Introduction to data analysis and visualization workshop](https://eyesoftruth.github.io/data-analysis-and-visualization-with-R/)
 
 [Data Science With Python](https://eyesoftruth.github.io/Data-Science-With-Python/)
+
+[Intro duction to bash](https://eyesoftruth.github.io/bash-intro/)
