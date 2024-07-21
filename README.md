@@ -4,4 +4,4 @@ Welcome to my learning journey in the world of data science, Linux, Python, R, m
 
 [Data Science With Python](https://eyesoftruth.github.io/Data-Science-With-Python/)
 
-[Intro duction to bash](https://eyesoftruth.github.io/bash-intro/)
+[Introduction to bash](https://eyesoftruth.github.io/bash-intro/)
